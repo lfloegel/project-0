@@ -9,7 +9,8 @@ contain 100% valid HTML5 <br />
 contain 100% valid CSS <br />
 utilize an external style sheet to provide style changes (no inline styles, i.e., provided via style attributes) <br /> 
 
-You webpage must include: <br />
+You webpage must include:
+
 a page title <br />
 a page heading <br />
 an image hosted on the same domain <br />
