@@ -2,8 +2,8 @@
 
 Your static webpage must:
 
-be hosted on GitHub Pages <br />
-be served via HTTPS <br />
+be hosted on GitHub Pages - done <br />
+be served via HTTPS - done <br />
 be created by hand – go nuts, but don’t use a page generator, i.e., no more markup than necessary <br />
 contain 100% valid HTML5 <br />
 contain 100% valid CSS <br />
