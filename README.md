@@ -2,18 +2,18 @@
 
 Your static webpage must:
 
-be hosted on GitHub Pages
-be served via HTTPS
-be created by hand – go nuts, but don’t use a page generator, i.e., no more markup than necessary
-contain 100% valid HTML5
-contain 100% valid CSS
-utilize an external style sheet to provide style changes (no inline styles, i.e., provided via style attributes)
-You webpage must include:
+be hosted on GitHub Pages <br />
+be served via HTTPS <br />
+be created by hand – go nuts, but don’t use a page generator, i.e., no more markup than necessary <br />
+contain 100% valid HTML5 <br />
+contain 100% valid CSS <br />
+utilize an external style sheet to provide style changes (no inline styles, i.e., provided via style attributes) <br /> 
 
-a page title
-a page heading
-an image hosted on the same domain
-an external CSS file written by you and hosted on the same domain
-an unordered list with at least three items
-a table with at least 2 columns and at least 3 rows
-a hyperlink to the GitHub repository containing the source code
+You webpage must include: <br />
+a page title <br />
+a page heading <br />
+an image hosted on the same domain <br />
+an external CSS file written by you and hosted on the same domain <br />
+an unordered list with at least three items <br />
+a table with at least 2 columns and at least 3 rows <br />
+a hyperlink to the GitHub repository containing the source code <br />
