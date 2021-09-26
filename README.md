@@ -11,8 +11,8 @@ utilize an external style sheet to provide style changes (no inline styles, i.e.
 
 You webpage must include:
 
-a page title <br />
-a page heading <br />
+a page title - done <br />
+a page heading - done <br />
 an image hosted on the same domain <br />
 an external CSS file written by you and hosted on the same domain <br />
 an unordered list with at least three items <br />
