@@ -11,6 +11,8 @@ h3 {
 img {
     width: 24vw;
     height: auto;
+    margin: auto;
+    display: block;
 }
 
 table{
