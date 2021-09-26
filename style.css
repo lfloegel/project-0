@@ -5,11 +5,11 @@ body {
 h3 {
     color: white;
     text-align: center;
-    font-size: 8em;
+    font-size: 8vw;
 }
 
 img {
-    width: 100%;
+    width: 100vw;
     height: auto;
 }
 
