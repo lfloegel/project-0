@@ -17,4 +17,4 @@ an image hosted on the same domain - done <br />
 an external CSS file written by you and hosted on the same domain - done <br />
 an unordered list with at least three items - done <br />
 a table with at least 2 columns and at least 3 rows - done <br />
-a hyperlink to the GitHub repository containing the source code <br />
+a hyperlink to the GitHub repository containing the source code - done <br />
