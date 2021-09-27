@@ -13,8 +13,8 @@ You webpage must include:
 
 a page title - done <br />
 a page heading - done <br />
-an image hosted on the same domain <br />
-an external CSS file written by you and hosted on the same domain <br />
-an unordered list with at least three items <br />
-a table with at least 2 columns and at least 3 rows <br />
+an image hosted on the same domain - done <br />
+an external CSS file written by you and hosted on the same domain - done <br />
+an unordered list with at least three items - done <br />
+a table with at least 2 columns and at least 3 rows - done <br />
 a hyperlink to the GitHub repository containing the source code <br />
